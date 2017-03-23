@@ -1,2 +1,2 @@
-# deep_learning
-ゼロから作るDeepLearningより
+# DeepLarning With Py3
+> ゼロから作るDeepLearningより
